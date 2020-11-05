@@ -1,0 +1,11 @@
+C:\Users\Cahayag\source\repos\VB-McDoenalds\VB-McDoenalds\bin\Debug\VB-McDoenalds.exe.config
+C:\Users\Cahayag\source\repos\VB-McDoenalds\VB-McDoenalds\bin\Debug\VB-McDoenalds.exe
+C:\Users\Cahayag\source\repos\VB-McDoenalds\VB-McDoenalds\bin\Debug\VB-McDoenalds.pdb
+C:\Users\Cahayag\source\repos\VB-McDoenalds\VB-McDoenalds\bin\Debug\VB-McDoenalds.xml
+C:\Users\Cahayag\source\repos\VB-McDoenalds\VB-McDoenalds\obj\Debug\VB_McDoenalds.Form1.resources
+C:\Users\Cahayag\source\repos\VB-McDoenalds\VB-McDoenalds\obj\Debug\VB_McDoenalds.Resources.resources
+C:\Users\Cahayag\source\repos\VB-McDoenalds\VB-McDoenalds\obj\Debug\VB-McDoenalds.vbproj.GenerateResource.cache
+C:\Users\Cahayag\source\repos\VB-McDoenalds\VB-McDoenalds\obj\Debug\VB-McDoenalds.vbproj.CoreCompileInputs.cache
+C:\Users\Cahayag\source\repos\VB-McDoenalds\VB-McDoenalds\obj\Debug\VB-McDoenalds.exe
+C:\Users\Cahayag\source\repos\VB-McDoenalds\VB-McDoenalds\obj\Debug\VB-McDoenalds.xml
+C:\Users\Cahayag\source\repos\VB-McDoenalds\VB-McDoenalds\obj\Debug\VB-McDoenalds.pdb
